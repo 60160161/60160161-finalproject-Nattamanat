@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810639158607",
+    "firebase_url": "https://realtimedatabse-6e81f.firebaseio.com",
+    "project_id": "realtimedatabse-6e81f",
+    "storage_bucket": "realtimedatabse-6e81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810639158607:android:b5eb59225965b66387e93a",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810639158607-1259vhb2sk08ne6qt69lvjojd0gne6jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedatabse",
+            "certificate_hash": "0a7d1105215a712a96a4b78fc80d6b3187b33599"
+          }
+        },
+        {
+          "client_id": "810639158607-rvqatvikaqb8hmrhk45eb9gohmvdclsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTjsfAzM3DyQcyImxoCd4bdRK8wp_WWsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810639158607-rvqatvikaqb8hmrhk45eb9gohmvdclsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
